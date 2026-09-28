@@ -96,7 +96,6 @@ It brings several career-related tools together in one application:
 
 ## 📫 Let's Connect
 
-- 💻 GitHub: [@khadgalohith002](https://github.com/khadgalohith002)
 - 🔗 LinkedIn: [Khadga Lohith](https://www.linkedin.com/in/khadga-lohith-k-583155328/)
 
 ---
